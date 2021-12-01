@@ -1,24 +1,10 @@
-html, body {
-    background-color: white;
-    overflow: hidden;
-}
-
-.container{
-    background-color: white;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-
-.section{
-    font-family:'Roboto', sans-serif;
-    font-size: 2rem;
-    text-align: center;
-}
-.date{
-    color: #dc58b2;
+html,
+body {
+  background-color: rgb(15, 107, 102);
+  color: white;
+  overflow: hidden;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  text-decoration: none;
+  height: 100vw;
 }
